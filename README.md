@@ -318,6 +318,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Bluesky](https://github.com/keturiosakys/bluesky-context-server)** - integrates with Bluesky API to query and search feeds and posts.
 - **[BloodHound-MCP](https://github.com/MorDavid/BloodHound-MCP-AI)** (by MorDavid) - integration that connects BloodHound with AI through MCP, allowing security professionals to analyze Active Directory attack paths using natural language queries instead of Cypher.
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
+- **[BrianBooms](https://github.com/brianbooms/brianbooms-mcp)** - Agentic commerce via x402: search and buy 33 digital products (music licenses, sample packs, wallpapers) with USDC micropayments on Base. Read-only by design; partner attribution built in.
 - **[Browser MCP](https://github.com/browsermcp/mcp)** - Automate your local browser
 - **[Browser MCP](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser)** (by UI-TARS) - A fast, lightweight MCP server that empowers LLMs with browser automation via Puppeteer’s structured accessibility data, featuring optional vision mode for complex visual understanding and flexible, cross-platform configuration.
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
